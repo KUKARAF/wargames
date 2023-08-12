@@ -13,3 +13,11 @@ Username: natas0
 Password: natas0
 URL:      http://natas0.natas.labs.overthewire.org
 ```
+
+
+# Solution
+The password can be found in the html of the page and is just [commented out](https://www.w3schools.com/html/html_comments.asp) ![[Screenshot from 2023-08-12 16-54-14.png]]
+password is: g9D9cREhslqBKtcA2uocGHPfMZVzeFK6
+
+
+
