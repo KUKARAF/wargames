@@ -12,6 +12,9 @@ tags: [clippings]
 ```
 Username: natas5
 URL:      http://natas5.natas.labs.overthewire.org
+User:natas4
+Password:tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
+
 ```
 
 # Solution
